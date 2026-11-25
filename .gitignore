@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+tasks.json
+class_schedule.json
+tasks_backup.json
+web_app_backup.py
+web_app_before_v6.py
+web_app_v5_backup.py
+web_app_v6_old.py

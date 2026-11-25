@@ -1,0 +1,7 @@
+streamlit
+openai-agents
+openai
+python-dotenv
+pymupdf
+pillow
+pandas
