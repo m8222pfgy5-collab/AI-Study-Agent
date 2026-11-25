@@ -2,16 +2,18 @@
 
 An AI-powered study planning application built with Python, Streamlit, and the OpenAI Agents SDK.
 
+
 ## Screenshots
 
 ### Task Management
-![Task Management](屏幕截图 2026-11-25 143812.png)
+![Task Management](屏幕截图%202026-11-25%20143812.png)
 
 ### Class Schedule
-![Class Schedule](屏幕截图 2026-11-25 143824.png)
+![Class Schedule](屏幕截图%202026-11-25%20143824.png)
 
 ### AI Study Plan
-![AI Study Plan](屏幕截图 2026-11-25 143830.png)
+![AI Study Plan](屏幕截图%202026-11-25%20143830.png)
+
 
 ## Features
 
